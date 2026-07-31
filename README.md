@@ -7,8 +7,8 @@ deployed as a live web service on Render.
 
 **Dataset:** [Kaggle — johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-**Live API URL:** `<ADD YOUR RENDER URL HERE AFTER DEPLOYMENT>`
-e.g. `https://heart-disease-deployment.onrender.com`
+**Live API URL:** `https://end-to-end-machine-learning-model-frqi.onrender.com`
+
 
 ---
 
